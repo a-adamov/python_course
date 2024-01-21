@@ -1,6 +1,3 @@
-a*1 + b*3 + c*5 = 111111
-a+b+c = 40000
-
-40000-b-c + b*3 + c*5 = 111111
-
-b*2+c*4=71111
+data = ['This is 1st line\n', 'This is 2nd line\n', 'This is 3rd line\n']
+index = data.index('This is 3rd line\n')
+print(index)
